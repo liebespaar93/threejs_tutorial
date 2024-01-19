@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Threejs](README.md)
+* [Welcome!](<README (1).md>)
 * [Quick Start](quick-start.md)
 
 ## Reference

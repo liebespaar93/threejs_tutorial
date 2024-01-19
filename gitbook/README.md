@@ -1,21 +1,11 @@
-# Welcome!
+---
+description: Threejs 자료
+---
 
-## Welcome to MyAPI
+# Threejs
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Threejs를 배우는 문서를 작성한 사이트 입니다\
 
-## Want to jump right in?
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+[https://threejs.org/](https://threejs.org/) 의 문서를 참고하여 작성하였습니다.
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
-
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
-{% endcontent-ref %}
